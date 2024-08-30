@@ -26,7 +26,8 @@ python env1-box-arrange.py
 ```
 
 
-##　Citation
+## Citation
+
 ```
 @article{zhang2023controlling,
   title={Controlling large language model-based agents for large-scale decision-making: An actor-critic approach},
