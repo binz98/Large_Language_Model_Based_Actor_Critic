@@ -1,5 +1,5 @@
 # Large Language Model-based Actor-Critic
-This is the implementation of Large Language Model-based Actor-Critic (LLaMAC). 
+This is the implementation of Large Language Model-based Actor-Critic (LLaMAC) for our paper accepted by LLM Agents Workshop@ICLR2024: [Controlling large language model-based agents for large-scale decision-making: An actor-critic approach](https://arxiv.org/abs/2311.13884).
 
 
 ## Requirements
@@ -24,6 +24,15 @@ Run the env1-box-arrange.py/env2-box-arrange.py to test our approaches in differ
 ```
 python env1-box-arrange.py
 ```
+
+##　Citation
+@article{zhang2023controlling,
+  title={Controlling large language model-based agents for large-scale decision-making: An actor-critic approach},
+  author={Zhang, Bin and Mao, Hangyu and Ruan, Jingqing and Wen, Ying and Li, Yang and Zhang, Shao and Xu, Zhiwei and Li, Dapeng and Li, Ziyue and Zhao, Rui and others},
+  journal={arXiv preprint arXiv:2311.13884},
+  year={2023}
+}
+
 
 
 
